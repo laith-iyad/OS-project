@@ -1,0 +1,5 @@
+1 0 2 CPU{20}  IO{5}  CPU{10}  R{R: 1}  CPU{5}  F{F: 1}
+2 1 1 CPU{15}  R{R: 2}  CPU{8}  F{F: 2}  IO{3}  CPU{6}
+3 2 3 CPU{7}  IO{4}  CPU{12}
+4 3 1 R{R: 3}  CPU{10}  F{F: 3}  CPU{5}
+5 5 2 CPU{25}  IO{6}  R{R: 1}  CPU{8}  F{F: 1}
